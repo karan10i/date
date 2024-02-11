@@ -2,7 +2,9 @@ body{
     background-color: #eca1a6;
     
 }
-
+.container{
+    height:100vh;
+}
 
 
 .button-10 {
@@ -34,6 +36,7 @@ body{
     outline: 0;
   }
 .bottom{
+    heights:20px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
